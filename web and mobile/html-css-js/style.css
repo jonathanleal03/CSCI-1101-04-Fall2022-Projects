@@ -1,0 +1,18 @@
+p
+{
+    color: rgb(252, 0, 0);
+}
+
+.header-background
+{
+    background-color: dimgrey;
+    color: white;
+    text-decoration: underline;
+
+}
+
+#bigger-font
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 32px;
+}
